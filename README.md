@@ -22,6 +22,8 @@
 - Добавление в проект ML Agent
 
 ![image](https://user-images.githubusercontent.com/114469025/197522371-8ac1cdad-723c-43da-ad16-0ac0a6c53a42.png)
+![image](https://user-images.githubusercontent.com/114469025/197621955-9402bcf2-27e7-4a86-a14e-df9713028f40.png)
+
 
 - Написание команд в Anaconda Prompt для создания и активации нового ML-агента и добавления библиотек
 ![image](https://user-images.githubusercontent.com/114469025/197525153-4e1d8b86-20b9-406a-b4e7-61d27080d0ba.png)
@@ -29,6 +31,8 @@
 ![image](https://user-images.githubusercontent.com/114469025/197525206-41d07b8f-48d0-4a7d-ab9d-b37a29f16450.png)
 
 ![image](https://user-images.githubusercontent.com/114469025/197614732-6e3dcc08-290b-414c-933b-5c0ecd427d3d.png)
+![image](https://user-images.githubusercontent.com/114469025/197622320-e7ec8532-8bd6-4a9c-a954-e44c23669e1b.png)
+
 
 
 - Создание на сцене плоскость, сферу и кубик
