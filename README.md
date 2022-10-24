@@ -20,6 +20,9 @@
 ### Реализовать систему машинного обучения в связке Python - Google-Sheets - Unity
 - Создание проекта на Unity
 - Добавление в проект ML Agent
+
+![image](https://user-images.githubusercontent.com/114469025/197522371-8ac1cdad-723c-43da-ad16-0ac0a6c53a42.png)
+
 - Написание команд в Anaconda Prompt для создания и активации нового ML-агента и добавления библиотек
 
 
