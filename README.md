@@ -44,6 +44,8 @@
 ![image](https://user-images.githubusercontent.com/114469025/197625540-59ba7b9f-72fd-426e-a257-5843a772177e.png)
 
 - Добавление файла конфигурации нейронной сети
+![image](https://user-images.githubusercontent.com/114469025/197630325-35614f16-e9ea-47e7-88c1-7120e9204095.png)
+
 - Запуск работы ml-агента
 - Проверка работы модели
 
