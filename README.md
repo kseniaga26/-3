@@ -28,6 +28,9 @@
 
 ![image](https://user-images.githubusercontent.com/114469025/197525206-41d07b8f-48d0-4a7d-ab9d-b37a29f16450.png)
 
+![image](https://user-images.githubusercontent.com/114469025/197614732-6e3dcc08-290b-414c-933b-5c0ecd427d3d.png)
+
+
 - Создание на сцене плоскость, сферу и кубик
 - Создание С#-скрипта и подключение нено к сцене
 - Добавление файла конфигурации нейронной сети
