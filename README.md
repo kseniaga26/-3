@@ -36,7 +36,13 @@
 
 
 - Создание на сцене плоскость, сферу и кубик
+![image](https://user-images.githubusercontent.com/114469025/197623303-18818b9a-1caf-4f85-a93d-4ae5216491ea.png)
+![image](https://user-images.githubusercontent.com/114469025/197623363-a7313551-0157-4be0-811c-3ee03383905b.png)
+![image](https://user-images.githubusercontent.com/114469025/197624428-ea0d3c11-056c-4fff-8fdd-87c158ef988e.png)
+
 - Создание С#-скрипта и подключение нено к сцене
+![image](https://user-images.githubusercontent.com/114469025/197625540-59ba7b9f-72fd-426e-a257-5843a772177e.png)
+
 - Добавление файла конфигурации нейронной сети
 - Запуск работы ml-агента
 - Проверка работы модели
