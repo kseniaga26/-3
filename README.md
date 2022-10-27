@@ -149,12 +149,8 @@ behaviors:
 
 - Проверка работы модели
 
-![image](https://user-images.githubusercontent.com/114469025/198273455-a7932726-ff39-4945-b1fe-1c2c5c31315f.png)
-![image](https://user-images.githubusercontent.com/114469025/198273514-6148f3a4-c30f-476d-a18e-d1676c294ddf.png)
-
-
-
-
+![image](https://user-images.githubusercontent.com/114469025/198280387-2711ba6a-ca58-45bd-be0b-492ddf2e3304.png)
+![image](https://user-images.githubusercontent.com/114469025/198280459-106c1826-0081-4bc3-9c37-08b49e91075b.png)
 
 ## Задание 2
 ### Описание строк файла конфигурации нейронной сети
