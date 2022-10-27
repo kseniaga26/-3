@@ -40,7 +40,7 @@
 ![image](https://user-images.githubusercontent.com/114469025/197623363-a7313551-0157-4be0-811c-3ee03383905b.png)
 ![image](https://user-images.githubusercontent.com/114469025/197624428-ea0d3c11-056c-4fff-8fdd-87c158ef988e.png)
 
-- Создание С#-скрипта и подключение нено к сцене
+- Создание С#-скрипта и его подключение к сцене
 ```py
 using System.Collections;
 using System.Collections.Generic;
@@ -99,7 +99,7 @@ public class RollerAgent : Agent
     }
 }
 ```
-![image](https://user-images.githubusercontent.com/114469025/197625540-59ba7b9f-72fd-426e-a257-5843a772177e.png)
+![image](https://user-images.githubusercontent.com/114469025/198277514-f4e9741d-3dd9-4ec9-ae9e-61b6a4edf776.png)
 
 - Добавление файла конфигурации нейронной сети
 ```py
