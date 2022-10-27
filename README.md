@@ -26,14 +26,12 @@
 
 
 - Написание команд в Anaconda Prompt для создания и активации нового ML-агента и добавления библиотек
+
 ![image](https://user-images.githubusercontent.com/114469025/197525153-4e1d8b86-20b9-406a-b4e7-61d27080d0ba.png)
 
 ![image](https://user-images.githubusercontent.com/114469025/197525206-41d07b8f-48d0-4a7d-ab9d-b37a29f16450.png)
 
 ![image](https://user-images.githubusercontent.com/114469025/197614732-6e3dcc08-290b-414c-933b-5c0ecd427d3d.png)
-![image](https://user-images.githubusercontent.com/114469025/197622320-e7ec8532-8bd6-4a9c-a954-e44c23669e1b.png)
-
-
 
 - Создание на сцене плоскости, сферы и кубика
 
@@ -126,7 +124,8 @@ behaviors:
     max_steps: 500000
     time_horizon: 64
     summary_freq: 10000
-```py
+```
+
 ![image](https://user-images.githubusercontent.com/114469025/197630325-35614f16-e9ea-47e7-88c1-7120e9204095.png)
 
 - Запуск работы ml-агента
