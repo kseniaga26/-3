@@ -99,6 +99,12 @@ public class RollerAgent : Agent
 ```
 ![image](https://user-images.githubusercontent.com/114469025/198277514-f4e9741d-3dd9-4ec9-ae9e-61b6a4edf776.png)
 
+- Объекту сфера добавленны компоненты Rigitbody, Decision Requester, Behaviour Parameters
+
+![image](https://user-images.githubusercontent.com/114469025/198281726-5c1847d0-a416-4fb4-8ad8-7b1ef1c9a5f1.png)
+![image](https://user-images.githubusercontent.com/114469025/198281906-1c099baa-fd4e-46a5-b0b8-484b00e467c3.png)
+
+
 - Добавление файла конфигурации нейронной сети
 ```py
 behaviors:
@@ -139,11 +145,11 @@ behaviors:
 
 ![image](https://user-images.githubusercontent.com/114469025/198279122-b17ff38a-2b6b-4982-bc5b-a043c7fa6d42.png)
 
-- 9 моделей
+- - 9 моделей
 
 ![image](https://user-images.githubusercontent.com/114469025/198270029-1be2fd3d-bbda-45fe-9687-d36879c3c051.png)
 
-- 36 моделей
+- - 36 моделей
 
 ![image](https://user-images.githubusercontent.com/114469025/198272275-81ab5208-a940-4f29-8a4a-fb6d3243c575.png)
 
@@ -181,5 +187,7 @@ behaviors:
     time_horizon: 64 количество шагов опыта нужно собрать для каждого агента, прежде чем добавлять его в буфер опыта. Когда этот предел достигается до окончания эпизода, оценка стоимости используется для прогнозирования общего ожидаемого вознаграждения от текущего состояния агента.
     
 - summary_freq: 10000 Количество опыта, который необходимо собрать перед созданием и отображением статистики обучения. 
+
+## Выводы
 
 Игровой баланс - это 
