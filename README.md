@@ -52,6 +52,13 @@
 ![image](https://user-images.githubusercontent.com/114469025/198267604-fcabcd42-3a7a-4054-b4f0-a340d201eedf.png)
 ![image](https://user-images.githubusercontent.com/114469025/198267695-c12fc631-7a79-4987-ac5d-b87f30af6fbd.png)
 
+![image](https://user-images.githubusercontent.com/114469025/198270029-1be2fd3d-bbda-45fe-9687-d36879c3c051.png)
+![image](https://user-images.githubusercontent.com/114469025/198270062-1682cf33-e881-467d-9153-e4676d6f72bd.png)
+
+
+![image](https://user-images.githubusercontent.com/114469025/198272275-81ab5208-a940-4f29-8a4a-fb6d3243c575.png)
+
+
 - Проверка работы модели
 
 
