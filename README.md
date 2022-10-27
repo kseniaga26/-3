@@ -131,21 +131,27 @@ behaviors:
 - Запуск работы ml-агента
 
 ![image](https://user-images.githubusercontent.com/114469025/198267575-a68a2440-3c55-492e-8910-7e0d0022f893.png)
-![image](https://user-images.githubusercontent.com/114469025/198267604-fcabcd42-3a7a-4054-b4f0-a340d201eedf.png)
 ![image](https://user-images.githubusercontent.com/114469025/198267695-c12fc631-7a79-4987-ac5d-b87f30af6fbd.png)
 
-![image](https://user-images.githubusercontent.com/114469025/198270029-1be2fd3d-bbda-45fe-9687-d36879c3c051.png)
-![image](https://user-images.githubusercontent.com/114469025/198270062-1682cf33-e881-467d-9153-e4676d6f72bd.png)
+- Создание 3, 9, 36 моделей "Плоскость-Сфера-Куб", запуск симуляции сцены и наблюдение за результатом обучения модели
 
+- - 3 модели
+
+![image](https://user-images.githubusercontent.com/114469025/198279122-b17ff38a-2b6b-4982-bc5b-a043c7fa6d42.png)
+
+- 9 моделей
+
+![image](https://user-images.githubusercontent.com/114469025/198270029-1be2fd3d-bbda-45fe-9687-d36879c3c051.png)
+
+- 36 моделей
 
 ![image](https://user-images.githubusercontent.com/114469025/198272275-81ab5208-a940-4f29-8a4a-fb6d3243c575.png)
 
+- Проверка работы модели
 
 ![image](https://user-images.githubusercontent.com/114469025/198273455-a7932726-ff39-4945-b1fe-1c2c5c31315f.png)
 ![image](https://user-images.githubusercontent.com/114469025/198273514-6148f3a4-c30f-476d-a18e-d1676c294ddf.png)
 
-
-- Проверка работы модели
 
 
 
