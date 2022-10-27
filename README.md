@@ -59,6 +59,10 @@
 ![image](https://user-images.githubusercontent.com/114469025/198272275-81ab5208-a940-4f29-8a4a-fb6d3243c575.png)
 
 
+![image](https://user-images.githubusercontent.com/114469025/198273455-a7932726-ff39-4945-b1fe-1c2c5c31315f.png)
+![image](https://user-images.githubusercontent.com/114469025/198273514-6148f3a4-c30f-476d-a18e-d1676c294ddf.png)
+
+
 - Проверка работы модели
 
 
